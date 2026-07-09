@@ -120,15 +120,6 @@ Through this project, I gained practical experience in:
 * Software Testing and Debugging
 * Version Control Practices
 
----
 
-# 🚀 Future Improvements
-
-* Online room booking functionality
-* Role-based user authentication
-* Email confirmation system
-* Advanced reporting dashboard
-* Online payment integration
-* Mobile application support
 
 
